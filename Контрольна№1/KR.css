@@ -74,7 +74,7 @@
     background-color: blue;
     width: 55px;
     color: darkred;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
     margin-bottom: 0;
 }
@@ -160,6 +160,11 @@ ol{
 }
 .item{
     display: flex;
+}
+img{
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 290px;
 }
 @media (min-width: 1200px){
     .col-lg-3{
