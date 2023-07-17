@@ -497,6 +497,7 @@ button{
     width: 1140px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .call_action_h3{
     color: #554D89;
