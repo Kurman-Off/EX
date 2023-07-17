@@ -488,7 +488,7 @@ button{
     display: flex;
     height: 170px;
     margin-top: 140px;
-    background-image: url("/images/Bg.png");
+    background-image: url("../images/Bg.png");
     align-items: center;
     justify-content: center;
 }
@@ -581,21 +581,21 @@ display: flex;
     font-weight: 400;
     padding-left: 0;
     margin-top: 50px;
-    list-style: url("/images/check-solid.svg");
+    list-style: url("../images/check-solid.svg");
 }
 .li_donate{
     margin: 10px 0;
 }
 .donate_block .ul_donate li:nth-child(4){
     opacity: 80%;
-    list-style: url("/images/xmark-solid.svg");
+    list-style: url("../images/xmark-solid.svg");
 }
 .donate_block .ul_donate li:nth-child(5){
     opacity: 80%;
-    list-style: url("/images/xmark-solid.svg");
+    list-style: url("../images/xmark-solid.svg");
 }
 .donate_block_2 .ul_donate li:nth-child(5){
-    list-style: url("/images/xmark-solid.svg");
+    list-style: url("../images/xmark-solid.svg");
     opacity: 80%;
 }
 .btn_Getting_started{
@@ -640,7 +640,7 @@ display: flex;
 }
 /*FOOTER*/
 .main_footer{
-    background-image: url("/images/Bgf.png");
+    background-image: url("../images/Bgf.png");
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
